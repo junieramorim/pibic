@@ -7,7 +7,7 @@ Organization:
 
 2. /articles - concentrates all articles to be read and to be used as research resources;
 
-3. /source - all source code implemented
+3. /source - all source code of implemented software
 
 4. /binary - executable files used in the project
 
